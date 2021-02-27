@@ -3,7 +3,6 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-
 def main():
     logging.info(
         "Вас приветствует игра GuessTheNumber. Она загадает число от 1 до 100, а вы должны его отгадать!"
