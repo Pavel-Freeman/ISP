@@ -3,7 +3,6 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-
 def choose_one_player(magic_number, user_number, attempt):
     while user_number != magic_number:
         user_number = int(input("Ваше число? : "))
