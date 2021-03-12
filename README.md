@@ -5,6 +5,6 @@
 
 Контакты автора:
 
-Telegram: @akik1
-VK: vk.com/pavel.freeman
-
+Telegram: @akik1  
+VK: vk.com/pavel.freeman  
+E-mail: akik_2018@mail.ru
