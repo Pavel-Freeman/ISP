@@ -1,8 +1,9 @@
 FROM python:3.7.2-alpine3.8
 
-RUN mkdir -p /usr/src/app/
-WORKDIR /usr/src/app/
+ENV path="/usr/src/app/"
+RUN mkdir -p $path
+WORKDIR $path
 
-COPY . /usr/src/app/
+COPY . $path
 
 CMD ["python","game.py"]
